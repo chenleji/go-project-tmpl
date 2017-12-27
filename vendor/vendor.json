@@ -1,0 +1,228 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Hpm7Fiw92Ev6tWPzR7lkSN92TBU=",
+			"path": "gitee.com/wisecloud/wise2c-components/consul",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "Y4lMdN3r6URAgF1TSQ/Ofl6BEoU=",
+			"path": "gitee.com/wisecloud/wise2c-components/network",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "VHx7XzqVmjeLUL/BWBNv8XCZc4g=",
+			"path": "gitee.com/wisecloud/wise2c-components/tool",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "AC3NOwIuMiapgle/+1AwJB7gTFM=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/Sirupsen/logrus",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "g+4AgCjxvotVLox53tnXxjXuBnQ=",
+			"path": "github.com/astaxie/beego",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "zgHK1vxUJDZTXAPCw+Bls7St0Ks=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "9J9Yez8RBxCcxynZL4KCW0+ZTRU=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "MXGs366RP4mY+x7vtP8V0ko4iPM=",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "Nx9dKuRvpEeNHhnpTb0yVy1t/JE=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "aNA3HBmv8A9mezI/ZW92Po9I5GE=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "F/QDhEIA/VGeWmaRlIi52jMdu8E=",
+			"path": "github.com/astaxie/beego/orm",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "qGvZUP7mTKGvMa3ui7kqLJQiXNc=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "EOoY9qbCsWnu5FlZZnMKUKkLcMk=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "W7HBzu7HlF18vCfNPgax7xvHXB0=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "5T9RSmblICCNexATntH0Zxoo37c=",
+			"path": "github.com/astaxie/beego/validation",
+			"revision": "3162da131da68f38e85765781c9d1cc419963e67",
+			"revisionTime": "2017-09-08T22:29:59Z"
+		},
+		{
+			"checksumSHA1": "42vkdsxNaLyPu+FktCzZ/8zsNSE=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "9dee4ca50b83acdf57a35fb9e6fb4be640afa2f3",
+			"revisionTime": "2017-03-27T11:30:21Z"
+		},
+		{
+			"checksumSHA1": "v5PdpQGlAGy02BtyKJJ444DqOps=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/hashicorp/consul/api",
+			"path": "github.com/hashicorp/consul/api",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "b8F628srIitj5p7Y130xc9k0QWs=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/hashicorp/go-cleanhttp",
+			"path": "github.com/hashicorp/go-cleanhttp",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "A1PcINvF3UiwHRKn8UcgARgvGRs=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/hashicorp/go-rootcerts",
+			"path": "github.com/hashicorp/go-rootcerts",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "/oss17GO4hXGM7QnUdI3VzcAHzA=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/hashicorp/serf/coordinate",
+			"path": "github.com/hashicorp/serf/coordinate",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "Js/yx9fZ3+wH1wZpHNIxSTMIaCg=",
+			"path": "github.com/jtolds/gls",
+			"revision": "77f18212c9c7edc9bd6a33d383a7b545ce62f064",
+			"revisionTime": "2017-05-03T22:40:06Z"
+		},
+		{
+			"checksumSHA1": "V/quM7+em2ByJbWBLOsEwnY3j/Q=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/mitchellh/go-homedir",
+			"path": "github.com/mitchellh/go-homedir",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "VIwXs8XddEBBC/5rnMeApXfqKG8=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/mojo-zd/go-library/http",
+			"path": "github.com/mojo-zd/go-library/http",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "liuTM45PFYptbWsyDf0bSLFTJPc=",
+			"path": "github.com/mojo-zd/go-library/reflect",
+			"revision": "efaab656647de036ca1adacc630970d8abe3a514",
+			"revisionTime": "2017-09-29T09:34:51Z"
+		},
+		{
+			"checksumSHA1": "u5Oz8rxBWuaMXAE/sWoYbtgrQ2k=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/mojo-zd/go-library/traverse",
+			"path": "github.com/mojo-zd/go-library/traverse",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "PphQA6j/DEDbg3WIsdBDYALOOYs=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/robfig/cron",
+			"path": "github.com/robfig/cron",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "zmC8/3V4ls53DJlNTKDZwPSC/dA=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/github.com/satori/go.uuid",
+			"path": "github.com/satori/go.uuid",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		},
+		{
+			"checksumSHA1": "ozRFnFdTG0IjkTE0RkZn71XO4gw=",
+			"path": "github.com/smartystreets/assertions",
+			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
+			"revisionTime": "2017-09-25T17:21:51Z"
+		},
+		{
+			"checksumSHA1": "Vzb+dEH/LTYbvr8RXHmt6xJHz04=",
+			"path": "github.com/smartystreets/assertions/internal/go-render/render",
+			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
+			"revisionTime": "2017-09-25T17:21:51Z"
+		},
+		{
+			"checksumSHA1": "r6FauVdOTFnwYQgrKGFuWUbIAJE=",
+			"path": "github.com/smartystreets/assertions/internal/oglematchers",
+			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
+			"revisionTime": "2017-09-25T17:21:51Z"
+		},
+		{
+			"checksumSHA1": "f4m09DHEetaanti/GqUJzyCBTaI=",
+			"path": "github.com/smartystreets/goconvey/convey",
+			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
+			"revisionTime": "2017-08-25T22:14:26Z"
+		},
+		{
+			"checksumSHA1": "9LakndErFi5uCXtY1KWl0iRnT4c=",
+			"path": "github.com/smartystreets/goconvey/convey/gotest",
+			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
+			"revisionTime": "2017-08-25T22:14:26Z"
+		},
+		{
+			"checksumSHA1": "FWDhk37bhAwZ2363D/L2xePwR64=",
+			"path": "github.com/smartystreets/goconvey/convey/reporting",
+			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
+			"revisionTime": "2017-08-25T22:14:26Z"
+		},
+		{
+			"checksumSHA1": "qMNq28HlS5CkK9bPmqOh6p7DEWg=",
+			"path": "github.com/toolkits/net",
+			"revision": "3f39ab6fe3cec98207da42dab32703b498ed92e4",
+			"revisionTime": "2016-09-10T08:58:01Z"
+		},
+		{
+			"checksumSHA1": "noiZtKqeCoHgwUw9PQz4O3w3CnU=",
+			"origin": "gitee.com/wisecloud/wise2c-components/vendor/golang.org/x/sys/unix",
+			"path": "golang.org/x/sys/unix",
+			"revision": "9775e8e156ca3bd6e469eeb8795e1f8690754e63",
+			"revisionTime": "2017-11-17T03:00:40Z"
+		}
+	],
+	"rootPath": "github.com/chenleji/go-project-tmpl"
+}
