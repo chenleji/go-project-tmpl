@@ -8,7 +8,8 @@ services:
   - docker
 
 install:
-  - docker build -t go-project-templ .
+  - env GOARCH=amd64 GOOS=linux go build
+  - docker build -t go-project-templ -f Dockerfile.travis .
   - docker run -d -p 127.0.0.1:8080:8080 --name go-project-templ go-project-templ
 
 script:

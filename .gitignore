@@ -356,3 +356,5 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 go-project-tmpl
+static/css/
+static/img/
