@@ -17,6 +17,6 @@ install:
   - docker run -d -p 127.0.0.1:8080:8080 --name go-project-templ go-project-templ
 
 script:
-  - go test -v -covermode=count ./...
-  - goveralls -service=travis-ci
+  #- go test -v -covermode=count ./...
+  #- goveralls -service=travis-ci
   - docker ps | grep -q go-project-templ
