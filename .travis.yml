@@ -7,10 +7,16 @@ go:
 services:
   - docker
 
+before_install:
+  - go get golang.org/x/tools/cmd/cover
+  - go get github.com/mattn/goveralls
+
 install:
   - env GOARCH=amd64 GOOS=linux go build
   - docker build -t go-project-templ .
   - docker run -d -p 127.0.0.1:8080:8080 --name go-project-templ go-project-templ
 
 script:
+  - go test -v -covermode=count -coverprofile=coverage.out
+  - goveralls -coverprofile=coverage.out -service=travis-ci -repotoken $COVERALLS_TOKEN
   - docker ps | grep -q go-project-templ
